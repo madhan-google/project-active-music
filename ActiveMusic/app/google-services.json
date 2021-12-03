@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979446883036",
+    "project_id": "active-music",
+    "storage_bucket": "active-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979446883036:android:952c896f55b4d668724a19",
+        "android_client_info": {
+          "package_name": "com.codekiller.activemusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979446883036-rdbtobo4qc5v3mcp5tbbb673rakndesm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Tuw9pshiUW2KPBu4VlOCOaUwb96Ip0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979446883036-rdbtobo4qc5v3mcp5tbbb673rakndesm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
